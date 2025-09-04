@@ -1,0 +1,101 @@
+{
+  "type": "custom-component",
+  "name": "test",
+  "children": [
+    {
+      "name": "div",
+      "nodeName": "div",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "55FiAZ"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "html",
+      "displayExpression": "",
+      "events": {},
+      "html": {
+        "content": "'<h1 class=\"text-center\" foo='bar'>Test</h1>'",
+        "evaluate": false
+      },
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "html eval false with ' '"
+    },
+    {
+      "name": "div",
+      "nodeName": "div",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "n35WTC"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "html",
+      "displayExpression": "",
+      "events": {},
+      "html": {
+        "content": "\"<h1 class=\"text-center\" foo='bar'>Test</h1>\"",
+        "evaluate": false
+      },
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "html eval false with \"\""
+    },
+    {
+      "name": "div",
+      "nodeName": "div",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "DepqKC"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "html",
+      "displayExpression": "",
+      "events": {},
+      "html": {
+        "content": "<h1 class=\"text-center\" foo='bar'>Test</h1>",
+        "evaluate": false
+      },
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "html eval false without quotes"
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "externalScripts": [],
+  "externalStylesheets": [],
+  "localScripts": [],
+  "localStylesheets": []
+}
